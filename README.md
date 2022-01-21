@@ -27,11 +27,11 @@ Working:
   
   Trackpoint/Trackpad (get gesture, works fine)
   
-  Wi-Fi (intel)(works fine, get both 2.4GHz and 5GHz)
+  Wi-Fi (works fine, get both 2.4GHz and 5GHz)
   
   Ethernet (works fine)
   
-  Audio (does not automatically switch speakers)
+  Audio (works fine but does not automatically switch speakers)
   
   Bluetooth (poor connection turn off wifi to solve and sometimes doesn't work, reboot solves)
   
@@ -48,6 +48,8 @@ Not tested:
 Not working:
 
   dGPU
+  
+  Secure boot
   
   Wake(after sleep can not be woken, hold the power button off and restart solved)
   
