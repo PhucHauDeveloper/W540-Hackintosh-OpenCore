@@ -1,6 +1,7 @@
 # W540-Hackintosh-OpenCore
 EFI for Lenovo W540 Hackintosh OpenCore Big Sur 11.6.3
 
+
 Laptop configuration:
 
   CPU: Core i7-4900MQ
@@ -16,6 +17,7 @@ Laptop configuration:
   dGPU: Nvidia Quadro k1100m
   
   iGPU: Intel HD 4600
+  
 
 Working:
 
@@ -36,9 +38,11 @@ Working:
   Battery level (works fine, no test because my battery is broken but still receive)
   
   
+  
 Not tested:
 
   Video OUT
+  
   
 
 Not working:
