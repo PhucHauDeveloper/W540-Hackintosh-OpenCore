@@ -1019,24 +1019,6 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>VoodooHDA.kext</string>
-				<key>Comment</key>
-				<string>V2.9.4 | Audio HDA</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooHDA</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
 				<string>SMCSuperIO.kext</string>
 				<key>Comment</key>
 				<string>V1.2.8</string>
@@ -1057,7 +1039,7 @@
 				<key>BundlePath</key>
 				<string>AirportItlwm.kext</string>
 				<key>Comment</key>
-				<string>V1.3.0 | Intel WiFi</string>
+				<string>V2.1.0 | Intel WiFi</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -1073,13 +1055,13 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>IntelBluetoothInjector.kext</string>
+				<string>BlueToolFixup.kext</string>
 				<key>Comment</key>
-				<string>V2.0.0</string>
+				<string>V2.6.1 | Fix bluetooth</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string></string>
+				<string>Contents/MacOS/BlueToolFixup</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1598,7 +1580,7 @@
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
-			<false/>
+			<true/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
@@ -1730,7 +1712,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-rtsx_mimic_linux debug=0x100 -wegnoegpu -no_compat_check</string>
+				<string>-rtsx_mimic_linux -wegnoegpu debug=0x100 -no_compat_check</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>run-efi-updater</key>
@@ -1875,11 +1857,11 @@
 			<key>AudioOutMask</key>
 			<integer>1</integer>
 			<key>AudioSupport</key>
-			<false/>
+			<true/>
 			<key>DisconnectHda</key>
 			<false/>
 			<key>MaximumGain</key>
-			<integer>-15</integer>
+			<integer>70</integer>
 			<key>MinimumAssistGain</key>
 			<integer>-30</integer>
 			<key>MinimumAudibleGain</key>
