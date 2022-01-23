@@ -3,6 +3,7 @@ EFI for Lenovo W540 Hackintosh OpenCore
 
 Please check Releases to select EFI according to your version of MacOS.
 
+
 Laptop configuration:
 
   CPU: Core i7-4900MQ
@@ -19,6 +20,7 @@ Laptop configuration:
   
   iGPU: Intel HD 4600
   
+
 
 Working:
 
