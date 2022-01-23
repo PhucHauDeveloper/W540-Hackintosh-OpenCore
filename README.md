@@ -1,5 +1,6 @@
 # W540-Hackintosh-OpenCore
 EFI for Lenovo W540 Hackintosh OpenCore
+
 Please check Releases to select EFI according to your version of MacOS.
 
 Laptop configuration:
