@@ -74,3 +74,7 @@ EFI for Lenovo W540 Hackintosh OpenCore**
   
   Wake(after sleep can not be woken, hold the power button off and restart solved)
   
+  
+  
+  **Contact me:**
+  Facebook: https://www.facebook.com/ThaiHoangPhucHau/
