@@ -1,3 +1,5 @@
+**I changed to new laptop, Lenovo l340. This will no longer update in future but i believe just update kext and Opencore it will work in MacOS 13, goodluck!**
+
 # **W540-Hackintosh-OpenCore
 EFI for Lenovo W540 Hackintosh OpenCore**
 
