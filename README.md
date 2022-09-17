@@ -79,4 +79,5 @@ EFI for Lenovo W540 Hackintosh OpenCore**
   
   
   **Contact me:**
-  Facebook: https://www.facebook.com/ThaiHoangPhucHau/
+  Facebook: https://www.facebook.com/phuchau.developer@gmail.com
+  Gmail: phuchau.developer@gmail.com
